@@ -1,0 +1,37 @@
+.softwareSection {
+  background-color: #336699;
+  height: 100%;
+  padding: 10px;
+  color: white;
+}
+.softwareImage {
+  height: 300px;
+  width: auto;
+  border: 1px solid black;
+  background-color: white;
+  padding: 20px;
+}
+.softwareImage img {
+  max-width:100%;
+  max-height:100%;
+}
+.softwareItem {
+  text-align: left;
+  height: 300px;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid black;
+}
+.softwareTitle {
+  font-size: 32px;
+  font-weight: bold;
+  color: black
+}
+.softwareLink {
+  font-size: 16px;
+  color: grey;
+}
+.softwareDescription {
+  font-size: 18px;
+  color: black;
+}
